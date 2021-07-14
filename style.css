@@ -2,17 +2,22 @@
 background-color: #a26769;
 flex:2;
 }
+
 .medium_pizza{
 background-color: #eae2b7;  
 flex:2; 
 }
+
 .large_pizza{
 background-color: #ffe2d1;
 flex:2;
 }
+
 footer{
+    text-align: center;
     background-color: #b9314f;
 }
+
 .border{
     border: 1px solid inherit;
     border-radius: 5px;
@@ -28,6 +33,6 @@ body{
     display: flex;
 }
 }
-h1, footer{
+h1{
 text-align: center;
 }
